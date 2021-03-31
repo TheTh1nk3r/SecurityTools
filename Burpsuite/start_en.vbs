@@ -1,0 +1,1 @@
+CreateObject("wscript.Shell").Run ".\jdk-11.0.7/bin/java.exe -noverify -javaagent:BurpSuiteLoader.jar -jar burpsuite_pro_v2020.12.1.jar",0  
